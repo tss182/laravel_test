@@ -1,0 +1,52 @@
+<x-layout-nav>
+    Dashboard 1<br/>
+    Dashboard 2<br/>
+    Dashboard 3<br/>
+    Dashboard<br/>
+    Dashboard<br/>
+    Dashboard<br/>
+    Dashboard<br/>
+    Dashboard<br/>
+    Dashboard<br/>
+    Dashboard<br/>
+    Dashboard<br/>
+    Dashboard<br/>
+    Dashboard<br/>
+    Dashboard<br/>
+    Dashboard<br/>
+    Dashboard<br/>
+    Dashboard<br/>
+    Dashboard<br/>
+    Dashboard<br/>
+    Dashboard<br/>
+    Dashboard<br/>
+    Dashboard<br/>
+    Dashboard<br/>
+    Dashboard<br/>
+    Dashboard<br/>
+    Dashboard<br/>
+    Dashboard<br/>
+    Dashboard<br/>
+    Dashboard<br/>
+    Dashboard<br/>
+    Dashboard<br/>
+    Dashboard<br/>
+    Dashboard<br/>
+    Dashboard<br/>
+    Dashboard<br/>
+    Dashboard<br/>
+    Dashboard<br/>
+    Dashboard<br/>
+    Dashboard<br/>
+    Dashboard<br/>
+    Dashboard<br/>
+    Dashboard<br/>
+    Dashboard<br/>
+    Dashboard<br/>
+    Dashboard<br/>
+    Dashboard<br/>
+    Dashboard<br/>
+    Dashboard<br/>
+    Dashboard<br/>
+    Dashboard<br/>
+</x-layout-nav>
